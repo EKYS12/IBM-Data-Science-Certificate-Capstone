@@ -1,2 +1,2 @@
-## Files for tasks in Week 1 of the Capstone
+## Week 1
 These are the notebooks centered on Data Collection practice, and data wrangling.
